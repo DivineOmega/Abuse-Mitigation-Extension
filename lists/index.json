@@ -1,5 +1,8 @@
 [
   {
-    "name": "Main list - swear words, sexual and racist terms"
+    "filename": "main.json",
+    "name": "Main list",
+    "description": "Swear words, sexual and racist terms",
+    "enabledByDefault": true
   }
 ]

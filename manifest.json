@@ -12,6 +12,7 @@
     {
       "matches": ["https://*.twitter.com/*", "http://*.twitter.com/*"],
       "js": ["twitter.js"],
+      "css": ["twitter.css"],
       "run_at": "document_start"
     }
   ],
